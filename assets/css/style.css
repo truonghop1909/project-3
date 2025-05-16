@@ -3,3 +3,11 @@
 body {
     font-family: "Be Vietnam Pro", sans-serif;
 }
+
+.viewer-toolbar>ul>li {
+    background-color: rgb(185, 49, 49);
+}
+
+.viewer-button {
+    background-color: rgb(185, 49, 49);
+}
